@@ -12,3 +12,5 @@ Step 3
 Step 4
 
 Claude coauthor test
+
+Squash test 1
