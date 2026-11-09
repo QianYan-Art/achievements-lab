@@ -14,3 +14,5 @@ Step 4
 Claude coauthor test
 
 Squash test 1
+
+Fix claude squash only
